@@ -1,0 +1,17 @@
+
+/* style.css */
+/* You can add custom styles if needed */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* You can customize forecast cards if needed */
+  .forecast-card {
+    background-color: #4b5563; /* Gray 700 */
+    color: white;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    text-align: center;
+  }
+  
